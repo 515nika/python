@@ -16,5 +16,5 @@ my_favorite_movies = 'Терминатор, Пятый элемент, Ават�
 # как указано в задании!
 
 # TODO здесь ваш код
-my_favorite_movies1 = 'Тихое место, Вышка, Брат, Небо, Один дома'
-print(my_favorite_movies1[0:11], my_favorite_movies1[-10:], my_favorite_movies1[12:18], my_favorite_movies1[-15:-11])
+print(my_favorite_movies[0:10], my_favorite_movies[-15:], my_favorite_movies[12:25], my_favorite_movies[-22:-17])
+                                                                                        
