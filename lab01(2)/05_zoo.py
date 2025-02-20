@@ -29,4 +29,4 @@ print(zoo)
 # TODO здесь ваш код
 a = zoo.index('lion')
 b = zoo.index('lark')
-print(a, b)
+print(a+1, b+1)
