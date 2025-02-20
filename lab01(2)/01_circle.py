@@ -41,6 +41,7 @@ if s < radius:
     print(True)
 else:
     print(False)
+print(s1 < radius)
 # Пример вывода на консоль:
 #
 # 77777.7777
