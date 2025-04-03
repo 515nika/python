@@ -15,6 +15,9 @@ Main. В файле main.py создаётся графический интер
 используя функции из модулей electron.py, neutron.py и proton.py. Результаты отображаются в интерфейсе и сохраняются в файл формата .docx. 
 Графический интерфейс создан с помощью библиотеки tkinter, а для работы с файлами Word используется библиотека python-docx.
 ## Результаты вычислений
+![image](https://github.com/user-attachments/assets/47ebb601-02ce-4dff-bbce-5228ad90366b)
+![image](https://github.com/user-attachments/assets/e762ff17-539f-470a-a22e-bfc5f83ba2b1)
+
 ## Список использованных источников:
 1. [Графический интерфейс](https://pythonru.com/uroki/obuchenie-python-gui-uroki-po-tkinter)
 2. [Библиотека для разработки графического интерфейса](https://habr.com/ru/articles/133337/)
